@@ -1,0 +1,15 @@
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\Oturumlar.exe.config
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\Oturumlar.exe
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\Oturumlar.pdb
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.Form1.resources
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.Properties.Resources.resources
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.csproj.Up2Date
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.exe
+C:\Users\MSİ\Desktop\FATMA BUSE ÇİL 16221625009 GÖRSEL VİZE ÖDEV\Oturumlar\Oturumlar\obj\Debug\Oturumlar.pdb

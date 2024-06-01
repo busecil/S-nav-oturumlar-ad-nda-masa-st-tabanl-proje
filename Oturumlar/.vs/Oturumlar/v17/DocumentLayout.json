@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|c:\\users\\ms\u0130\\desktop\\fatma buse \u00E7\u0130l 16221625009 g\u00F6rsel v\u0130ze \u00F6dev\\oturumlar\\oturumlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|solutionrelative:oturumlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\oturumlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|solutionrelative:oturumlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\oturumlar\\oturumlar009model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|solutionrelative:oturumlar\\oturumlar009model.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\oturumlar\\oturumlar009model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BC80E3DF-BA99-46B5-99FA-E34458490A6D}|Oturumlar\\Oturumlar.csproj|solutionrelative:oturumlar\\oturumlar009model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Form1.cs",
+              "RelativeDocumentMoniker": "Oturumlar\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Form1.cs",
+              "RelativeToolTip": "Oturumlar\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:02:22.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oturumlar009Model.Context.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Oturumlar009Model.Context.cs",
+              "RelativeDocumentMoniker": "Oturumlar\\Oturumlar009Model.Context.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Oturumlar009Model.Context.cs",
+              "RelativeToolTip": "Oturumlar\\Oturumlar009Model.Context.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:02:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oturumlar009Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Oturumlar009Model.edmx",
+              "RelativeDocumentMoniker": "Oturumlar\\Oturumlar009Model.edmx",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Oturumlar009Model.edmx [Diagram1]",
+              "RelativeToolTip": "Oturumlar\\Oturumlar009Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-30T13:01:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Form1.cs",
+              "RelativeDocumentMoniker": "Oturumlar\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\FATMA BUSE \u00C7\u0130L 16221625009 G\u00D6RSEL V\u0130ZE \u00D6DEV\\Oturumlar\\Oturumlar\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Oturumlar\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:55:54.754Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
